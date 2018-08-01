@@ -3,7 +3,7 @@
 ###############################################################################
 #varibles
 #
-payload="./copy_key.sh"
+payload="./deply.sh"
 hostnames=($(cat ./hostnames.txt))
 hlen=${#hostnames[@]}
 unprocessed="./unprocessed"
