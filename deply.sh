@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 wsadm=/usr/local/WebSphere7/AppServer/profiles/Dmgr01/bin/wsadmin.sh
 script_path=/usr/local/WebSphere7/AppServer/profiles/Dmgr01/bin/Automated_Deployment_Scripts
